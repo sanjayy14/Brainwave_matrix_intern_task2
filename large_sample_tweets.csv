@@ -1,0 +1,101 @@
+Tweet_ID,Username,Tweet,Date,Retweets,Likes,Sentiment
+TW1,user_1,I love the new iPhone! The camera quality is amazing. #Apple,2023-01-01,202,784,Positive
+TW2,user_2,The food at this restaurant was terrible. Never coming back!,2023-01-02,470,282,Positive
+TW3,user_3,Just watched a great movie. Highly recommend it!,2023-01-03,323,538,Positive
+TW4,user_4,The new software update is so buggy. Disappointed!,2023-01-04,94,669,Positive
+TW5,user_5,Had an average experience at the hotel. Nothing special.,2023-01-05,144,369,Positive
+TW6,user_6,Excited about the new AI technology advancements!,2023-01-06,259,610,Positive
+TW7,user_7,Customer service at this store was horrible. Very rude staff.,2023-01-07,446,700,Positive
+TW8,user_8,Wow! The new Tesla model is absolutely stunning!,2023-01-08,227,443,Positive
+TW9,user_9,Feeling neutral about the latest political debate.,2023-01-09,236,213,Positive
+TW10,user_10,My internet connection keeps dropping. Frustrating!,2023-01-10,439,138,Positive
+TW11,user_11,I love the new iPhone! The camera quality is amazing. #Apple,2023-01-11,278,374,Positive
+TW12,user_12,The food at this restaurant was terrible. Never coming back!,2023-01-12,475,206,Positive
+TW13,user_13,Just watched a great movie. Highly recommend it!,2023-01-13,227,497,Positive
+TW14,user_14,The new software update is so buggy. Disappointed!,2023-01-14,347,774,Positive
+TW15,user_15,Had an average experience at the hotel. Nothing special.,2023-01-15,499,93,Positive
+TW16,user_16,Excited about the new AI technology advancements!,2023-01-16,119,642,Positive
+TW17,user_17,Customer service at this store was horrible. Very rude staff.,2023-01-17,280,259,Positive
+TW18,user_18,Wow! The new Tesla model is absolutely stunning!,2023-01-18,473,306,Positive
+TW19,user_19,Feeling neutral about the latest political debate.,2023-01-19,271,157,Positive
+TW20,user_20,My internet connection keeps dropping. Frustrating!,2023-01-20,421,484,Positive
+TW21,user_21,I love the new iPhone! The camera quality is amazing. #Apple,2023-01-21,451,666,Positive
+TW22,user_22,The food at this restaurant was terrible. Never coming back!,2023-01-22,312,621,Positive
+TW23,user_23,Just watched a great movie. Highly recommend it!,2023-01-23,54,903,Positive
+TW24,user_24,The new software update is so buggy. Disappointed!,2023-01-24,331,425,Positive
+TW25,user_25,Had an average experience at the hotel. Nothing special.,2023-01-25,166,315,Positive
+TW26,user_26,Excited about the new AI technology advancements!,2023-01-26,165,790,Positive
+TW27,user_27,Customer service at this store was horrible. Very rude staff.,2023-01-27,259,192,Positive
+TW28,user_28,Wow! The new Tesla model is absolutely stunning!,2023-01-28,123,179,Positive
+TW29,user_29,Feeling neutral about the latest political debate.,2023-01-29,9,520,Positive
+TW30,user_30,My internet connection keeps dropping. Frustrating!,2023-01-30,446,126,Positive
+TW31,user_31,I love the new iPhone! The camera quality is amazing. #Apple,2023-01-31,445,698,Negative
+TW32,user_32,The food at this restaurant was terrible. Never coming back!,2023-02-01,119,164,Negative
+TW33,user_33,Just watched a great movie. Highly recommend it!,2023-02-02,370,145,Negative
+TW34,user_34,The new software update is so buggy. Disappointed!,2023-02-03,423,677,Negative
+TW35,user_35,Had an average experience at the hotel. Nothing special.,2023-02-04,413,795,Negative
+TW36,user_36,Excited about the new AI technology advancements!,2023-02-05,397,244,Negative
+TW37,user_37,Customer service at this store was horrible. Very rude staff.,2023-02-06,88,155,Negative
+TW38,user_38,Wow! The new Tesla model is absolutely stunning!,2023-02-07,363,734,Negative
+TW39,user_39,Feeling neutral about the latest political debate.,2023-02-08,262,649,Negative
+TW40,user_40,My internet connection keeps dropping. Frustrating!,2023-02-09,318,79,Negative
+TW41,user_41,I love the new iPhone! The camera quality is amazing. #Apple,2023-02-10,184,739,Negative
+TW42,user_42,The food at this restaurant was terrible. Never coming back!,2023-02-11,219,605,Negative
+TW43,user_43,Just watched a great movie. Highly recommend it!,2023-02-12,89,154,Negative
+TW44,user_44,The new software update is so buggy. Disappointed!,2023-02-13,358,745,Negative
+TW45,user_45,Had an average experience at the hotel. Nothing special.,2023-02-14,442,959,Negative
+TW46,user_46,Excited about the new AI technology advancements!,2023-02-15,139,195,Negative
+TW47,user_47,Customer service at this store was horrible. Very rude staff.,2023-02-16,190,316,Negative
+TW48,user_48,Wow! The new Tesla model is absolutely stunning!,2023-02-17,488,366,Negative
+TW49,user_49,Feeling neutral about the latest political debate.,2023-02-18,429,355,Negative
+TW50,user_50,My internet connection keeps dropping. Frustrating!,2023-02-19,23,385,Negative
+TW51,user_51,I love the new iPhone! The camera quality is amazing. #Apple,2023-02-20,185,602,Negative
+TW52,user_52,The food at this restaurant was terrible. Never coming back!,2023-02-21,140,754,Negative
+TW53,user_53,Just watched a great movie. Highly recommend it!,2023-02-22,271,420,Negative
+TW54,user_54,The new software update is so buggy. Disappointed!,2023-02-23,410,44,Negative
+TW55,user_55,Had an average experience at the hotel. Nothing special.,2023-02-24,146,735,Negative
+TW56,user_56,Excited about the new AI technology advancements!,2023-02-25,41,664,Negative
+TW57,user_57,Customer service at this store was horrible. Very rude staff.,2023-02-26,388,766,Negative
+TW58,user_58,Wow! The new Tesla model is absolutely stunning!,2023-02-27,490,888,Negative
+TW59,user_59,Feeling neutral about the latest political debate.,2023-02-28,212,261,Negative
+TW60,user_60,My internet connection keeps dropping. Frustrating!,2023-03-01,360,658,Negative
+TW61,user_61,I love the new iPhone! The camera quality is amazing. #Apple,2023-03-02,480,153,Neutral
+TW62,user_62,The food at this restaurant was terrible. Never coming back!,2023-03-03,158,166,Neutral
+TW63,user_63,Just watched a great movie. Highly recommend it!,2023-03-04,116,559,Neutral
+TW64,user_64,The new software update is so buggy. Disappointed!,2023-03-05,36,939,Neutral
+TW65,user_65,Had an average experience at the hotel. Nothing special.,2023-03-06,460,856,Neutral
+TW66,user_66,Excited about the new AI technology advancements!,2023-03-07,307,716,Neutral
+TW67,user_67,Customer service at this store was horrible. Very rude staff.,2023-03-08,190,360,Neutral
+TW68,user_68,Wow! The new Tesla model is absolutely stunning!,2023-03-09,424,532,Neutral
+TW69,user_69,Feeling neutral about the latest political debate.,2023-03-10,261,262,Neutral
+TW70,user_70,My internet connection keeps dropping. Frustrating!,2023-03-11,143,762,Neutral
+TW71,user_71,I love the new iPhone! The camera quality is amazing. #Apple,2023-03-12,17,475,Neutral
+TW72,user_72,The food at this restaurant was terrible. Never coming back!,2023-03-13,495,438,Neutral
+TW73,user_73,Just watched a great movie. Highly recommend it!,2023-03-14,483,609,Neutral
+TW74,user_74,The new software update is so buggy. Disappointed!,2023-03-15,16,316,Neutral
+TW75,user_75,Had an average experience at the hotel. Nothing special.,2023-03-16,235,77,Neutral
+TW76,user_76,Excited about the new AI technology advancements!,2023-03-17,312,715,Neutral
+TW77,user_77,Customer service at this store was horrible. Very rude staff.,2023-03-18,374,845,Neutral
+TW78,user_78,Wow! The new Tesla model is absolutely stunning!,2023-03-19,278,226,Neutral
+TW79,user_79,Feeling neutral about the latest political debate.,2023-03-20,65,814,Neutral
+TW80,user_80,My internet connection keeps dropping. Frustrating!,2023-03-21,287,264,Neutral
+TW81,user_81,I love the new iPhone! The camera quality is amazing. #Apple,2023-03-22,329,833,Neutral
+TW82,user_82,The food at this restaurant was terrible. Never coming back!,2023-03-23,196,952,Neutral
+TW83,user_83,Just watched a great movie. Highly recommend it!,2023-03-24,261,564,Neutral
+TW84,user_84,The new software update is so buggy. Disappointed!,2023-03-25,402,636,Neutral
+TW85,user_85,Had an average experience at the hotel. Nothing special.,2023-03-26,352,695,Neutral
+TW86,user_86,Excited about the new AI technology advancements!,2023-03-27,140,753,Neutral
+TW87,user_87,Customer service at this store was horrible. Very rude staff.,2023-03-28,20,342,Neutral
+TW88,user_88,Wow! The new Tesla model is absolutely stunning!,2023-03-29,248,794,Neutral
+TW89,user_89,Feeling neutral about the latest political debate.,2023-03-30,306,125,Neutral
+TW90,user_90,My internet connection keeps dropping. Frustrating!,2023-03-31,407,528,Neutral
+TW91,user_91,I love the new iPhone! The camera quality is amazing. #Apple,2023-04-01,436,17,Neutral
+TW92,user_92,The food at this restaurant was terrible. Never coming back!,2023-04-02,263,707,Neutral
+TW93,user_93,Just watched a great movie. Highly recommend it!,2023-04-03,343,692,Neutral
+TW94,user_94,The new software update is so buggy. Disappointed!,2023-04-04,188,258,Neutral
+TW95,user_95,Had an average experience at the hotel. Nothing special.,2023-04-05,196,403,Neutral
+TW96,user_96,Excited about the new AI technology advancements!,2023-04-06,367,695,Neutral
+TW97,user_97,Customer service at this store was horrible. Very rude staff.,2023-04-07,82,914,Neutral
+TW98,user_98,Wow! The new Tesla model is absolutely stunning!,2023-04-08,96,444,Neutral
+TW99,user_99,Feeling neutral about the latest political debate.,2023-04-09,485,970,Neutral
+TW100,user_100,My internet connection keeps dropping. Frustrating!,2023-04-10,285,69,Neutral
